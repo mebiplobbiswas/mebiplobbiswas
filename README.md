@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/biplobbkb20)
 
-- 🌱 I’m currently learning **.NET Core | PHP**
+- 🌱 I’m currently learning ** Azure | Angular **
 
 - 👯 I’m looking to collaborate on [Fiverr](https://www.fiverr.com/biplobbkb1)
 
