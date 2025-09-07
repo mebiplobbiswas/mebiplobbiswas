@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG1Bxp1S2_96Q/profile-displaybackgroundimage-shrink_350_1400/B56Zi9k5Z_HMAY-/0/1755527224253?e=1758758400&v=beta&t=8ssCvx82SDGR4K77zjLP_X2Wtaz_-I-KWFv70hkcoDQ">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEQfA51HlGNwQ/profile-displaybackgroundimage-shrink_350_1400/B56Zkk7jsAI8AY-/0/1757261222153?e=1759968000&v=beta&t=4ymD_gGvqe11ZaGicjKeNTof7dl-EfieEg0tvA9wws4">
 <h1 align="center">Hello! 👋, I'm Biplob Kumar Biswas</h1>
 <h3 align="center">Full Stack Software Engineer | Web Solutions Expert | ASP.NET Core (C# MVC) | PHP | SQL Server | JavaScript</h3>
 
