@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEQfA51HlGNwQ/profile-displaybackgroundimage-shrink_350_1400/B56Zkk7jsAI8AY-/0/1757261222153?e=1759968000&v=beta&t=4ymD_gGvqe11ZaGicjKeNTof7dl-EfieEg0tvA9wws4">
+
 <h1 align="center">I'm Biplob Kumar Biswas</h1>
 <h3 align="center">Full Stack Software Engineer | Web Solutions Expert | ASP.NET Core (C# MVC) | PHP | SQL Server | JavaScript</h3>
 
